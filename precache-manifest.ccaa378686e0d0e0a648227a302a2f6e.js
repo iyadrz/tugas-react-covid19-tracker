@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "828d2b71bbc8853e5d6e1347612d765c",
+    "revision": "fe36ca92fa67ca8f26a05f1bc968b593",
     "url": "/tugas-react-covid19-tracker/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tugas-react-covid19-tracker/static/css/2.9233ae65.chunk.css"
   },
   {
-    "revision": "792ba43c9e09d881e25b",
+    "revision": "2350d8b2cf5076cc3cf0",
     "url": "/tugas-react-covid19-tracker/static/css/main.e1f4fc00.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tugas-react-covid19-tracker/static/js/2.ad52a834.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "792ba43c9e09d881e25b",
-    "url": "/tugas-react-covid19-tracker/static/js/main.a353e979.chunk.js"
+    "revision": "2350d8b2cf5076cc3cf0",
+    "url": "/tugas-react-covid19-tracker/static/js/main.3aa3dff3.chunk.js"
   },
   {
     "revision": "88abe3790da37a8bb867",

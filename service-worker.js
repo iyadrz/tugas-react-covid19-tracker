@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tugas-react-covid19-tracker/precache-manifest.49574971cd7faf3f08bc0f3c8df40b69.js"
+  "/tugas-react-covid19-tracker/precache-manifest.ccaa378686e0d0e0a648227a302a2f6e.js"
 );
 
 self.addEventListener('message', (event) => {
